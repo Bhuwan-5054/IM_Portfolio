@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/323957o3lx3j3.css","style"]
+:HL["/_next/static/media/4eebc3ef23156c9c-s.p.1lyh5i0g64y2q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/StackSansNotch_VariableFont_wght-s.p.0hn8uaya7wj8u.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"aToO5EF7V6ezjNiffmSnf"}
