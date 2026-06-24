@@ -1,4 +1,4 @@
 export const ROUTES = {
-  creator: "https://creator-domain.com",
-  cyber: "https://cyber-domain.com",
+  creator: "https://Bhuwan_kirnapure.8889607226.com",
+  cyber: "https://bhuwan5054.8889607226.com",
 };
